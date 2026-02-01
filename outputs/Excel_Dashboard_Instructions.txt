@@ -1,0 +1,63 @@
+
+# Excel Dashboard Usage Instructions
+
+## File Location
+/mnt/c/Users/Krell/Documents/Imps/gits/Perpetua-Report/outputs/Perpetua_Performance_Dashboard_20260202.xlsx
+
+## Sheets Overview
+
+1. **Executive Summary**
+   - High-level metrics at a glance
+   - Perpetua vs Non-Perpetua comparison
+   - Key performance indicators
+
+2. **Detailed Comparison**
+   - Side-by-side metrics
+   - Winner identification for each metric
+   - Comprehensive performance analysis
+
+3. **Top 100 ASINs**
+   - ASIN-level performance data
+   - Sorted by total sales
+   - Identify star performers and opportunities
+
+4. **Monthly Trends**
+   - Month-over-month performance
+   - Track improvements over time
+   - Seasonal pattern identification
+
+5. **Recommendations**
+   - Prioritized action items
+   - Expected impact assessment
+   - Strategic next steps
+
+## How to Use
+
+1. **Review Executive Summary** first for high-level insights
+2. **Dive into Detailed Comparison** for metric-by-metric analysis
+3. **Examine Top 100 ASINs** to identify specific optimization targets
+4. **Check Monthly Trends** to track progress over time
+5. **Follow Recommendations** for actionable next steps
+
+## Refreshing Data
+
+To update this dashboard with new data:
+```bash
+cd /mnt/c/Users/Krell/Documents/Imps/gits/Perpetua-Report
+python scripts/refresh_reports.py
+```
+
+This will:
+1. Re-process all data files
+2. Re-generate comparison analysis
+3. Create new Excel dashboard with updated date
+4. Preserve historical dashboards for comparison
+
+## Tips
+
+- Use Excel filters on ASIN sheet to find specific products
+- Create pivot tables for custom analysis
+- Export specific sheets to share with stakeholders
+- Compare multiple dashboard versions to track improvements
+
+Generated: 2026-02-02 03:47:19

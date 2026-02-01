@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Large data files (keep structure, not content)
+data/recent-reports/*.xlsx
+data/recent-reports/*.csv
+data/processed/*.csv
+*.xlsx
+*.csv
+
+# Keep directory structure
+!data/recent-reports/.gitkeep
+!data/processed/.gitkeep
+!data/aggregated/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+~$*

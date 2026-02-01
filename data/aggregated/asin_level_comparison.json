@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-02-02T03:34:35.829498",
+  "perpetua_asins_count": 236,
+  "non_perpetua_asins_count": 211,
+  "perpetua_asins_analyzed": 227,
+  "non_perpetua_asins_analyzed": 193,
+  "perpetua_metrics": {
+    "Total_Spend": 236157.39,
+    "Total_Sales": 467827.25,
+    "Total_Orders": 39717.0,
+    "Total_Units": 44888.0,
+    "Total_Impressions": 29363618.0,
+    "Total_Clicks": 200194.0,
+    "Unique_ASINs": 227.0,
+    "ACOS": 0.001,
+    "ROAS": 1.4449,
+    "Cost Per Click (CPC)": 0.4352,
+    "Conversion_Rate": 0.0008,
+    "Avg_CPC": 1.1796426965843132,
+    "Avg_CVR": 0.19839255921755897,
+    "CTR": 0.006817756585717741,
+    "Spend_Per_ASIN": 1040.3409251101323,
+    "Sales_Per_ASIN": 2060.9129955947137,
+    "Orders_Per_ASIN": 174.9647577092511
+  },
+  "non_perpetua_metrics": {
+    "Total_Spend": 49596.13,
+    "Total_Sales": 130338.64,
+    "Total_Orders": 11329.0,
+    "Total_Units": 12925.0,
+    "Total_Impressions": 7410353.0,
+    "Total_Clicks": 54347.0,
+    "Unique_ASINs": 193.0,
+    "ACOS": 0.0006,
+    "ROAS": 2.5972,
+    "Cost Per Click (CPC)": 0.3285,
+    "Conversion_Rate": 0.001,
+    "Avg_CPC": 0.9125826632564814,
+    "Avg_CVR": 0.20845676854288187,
+    "CTR": 0.0073339286266119845,
+    "Spend_Per_ASIN": 256.9747668393782,
+    "Sales_Per_ASIN": 675.3297409326425,
+    "Orders_Per_ASIN": 58.69948186528497
+  },
+  "comparison": {
+    "Total Spend": {
+      "Perpetua": 236157.39,
+      "Non-Perpetua": 49596.13,
+      "Delta": 186561.26,
+      "Better": "Higher is worse"
+    },
+    "Total Sales": {
+      "Perpetua": 467827.25,
+      "Non-Perpetua": 130338.64,
+      "Delta": 337488.61,
+      "Pct_Change": 258.9321248096497
+    },
+    "Avg ACOS": {
+      "Perpetua": 0.001,
+      "Non-Perpetua": 0.0006,
+      "Delta": 0.0004000000000000001,
+      "Improvement_Pct": -66.66666666666669
+    },
+    "Avg ROAS": {
+      "Perpetua": 1.4449,
+      "Non-Perpetua": 2.5972,
+      "Delta": -1.1522999999999999,
+      "Improvement_Pct": -44.36701062682889
+    },
+    "Avg CPC": {
+      "Perpetua": 1.1796426965843132,
+      "Non-Perpetua": 0.9125826632564814,
+      "Delta": 0.2670600333278318,
+      "Improvement_Pct": -29.264201927181972
+    },
+    "Conversion Rate": {
+      "Perpetua": 0.19839255921755897,
+      "Non-Perpetua": 0.20845676854288187,
+      "Delta": -0.010064209325322898,
+      "Improvement_Pct": -4.827959962956338
+    }
+  }
+}
