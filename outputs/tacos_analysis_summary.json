@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-02-02T13:13:56.965564",
+  "order_files_processed": 2,
+  "total_order_lines": 430703,
+  "shipped_orders": 367418,
+  "date_range": "2025-12-01 to 2026-02-01",
+  "perpetua": {
+    "Total_Revenue": 3823653.84,
+    "Ad_Spend": 233257.28999999998,
+    "Ad_Sales": 462549.70999999996,
+    "Organic_Sales": 3361104.13,
+    "TACoS": 6.100376753770158,
+    "T_ROAS": 16.392430178709528,
+    "Regular_ROAS": 1.9830021604040757,
+    "Organic_Ratio": 87.90293971799498,
+    "Organic_Lift": 726.6471164796536
+  },
+  "non_perpetua": {
+    "Total_Revenue": 2416454.67,
+    "Ad_Spend": 52496.23,
+    "Ad_Sales": 135616.18,
+    "Organic_Sales": 2280838.4899999998,
+    "TACoS": 2.172448366267098,
+    "T_ROAS": 46.0310134651574,
+    "Regular_ROAS": 2.583350842527168,
+    "Organic_Ratio": 94.38780368265711,
+    "Organic_Lift": 1681.8336056951316
+  }
+}
