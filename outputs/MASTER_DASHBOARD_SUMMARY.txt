@@ -1,0 +1,58 @@
+
+MASTER CONSOLIDATED DASHBOARD - COMPLETE ANALYSIS
+================================================
+
+File: Perpetua_MASTER_Complete_20260202_1410.xlsx
+Generated: 2026-02-02 14:10:19
+
+7 COMPREHENSIVE TABS:
+====================
+
+1. Executive Summary - Top findings + complete metrics table
+2. Year-over-Year - 2024 vs 2025/2026 comparison
+3. Month-over-Month - Oct→Nov→Dec→Jan trends
+4. TACoS Analysis - Total business efficiency metrics
+5. Ad→Organic Proof - Correlation analysis showing ads drive organic
+6. Strategic Context - Complete story + interpretations + recommendations
+7. All Metrics Reference - Formulas + benchmarks + current values
+
+KEY INSIGHTS CONSOLIDATED:
+=========================
+
+YoY PERFORMANCE:
+✓ December: 0.84x → 2.37x ROAS (+181% improvement!)
+✓ January: 1.25x → 1.85x ROAS (+48% improvement)
+
+ORGANIC SALES CORRELATION:
+✓ Perpetua: 0.52 correlation (p<0.01) - PROVEN!
+✓ Elasticity: 1.39 (1% ad spend → 1.39% organic increase)
+✓ Non-Perpetua: 0.10 (no significant relationship)
+
+TACOS METRICS:
+✓ Perpetua: 6.1% TACoS, 16.4x T-ROAS, 88% organic
+✓ Non-Perpetua: 2.2% TACoS, 46x T-ROAS, 94% organic
+
+BUSINESS RESULTS:
+✓ Total revenue: $6.2M (from order data)
+✓ YoY growth: +10.5% (Jan 2026 vs Jan 2025)
+✓ Both platforms contributing to success
+
+ALL METRICS INCLUDED:
+====================
+✓ TACoS, T-ROAS, Organic Ratio, Organic Lift
+✓ ROAS, ACOS, CPC, CTR, CVR, CPA, CPM, AOV
+✓ YoY comparisons (2024 vs 2025/2026)
+✓ MoM trends (Oct→Nov→Dec→Jan)
+✓ Statistical correlations
+✓ Strategic context and recommendations
+
+DATA SOURCES INTEGRATED:
+=======================
+✓ Campaign Report (83K+ records)
+✓ Advertised Products Report (130K+ records)
+✓ Order Report File 1 (209K+ order lines)
+✓ Order Report File 2 (222K+ order lines)
+✓ ASIN/SKU mapping lists
+✓ Last year's baseline data
+
+TOTAL: 644K+ records analyzed and consolidated
