@@ -1,0 +1,54 @@
+{
+  "analysis_type": "Pre-Perpetua vs Post-Perpetua Implementation",
+  "perpetua_launch_date": "2025-12-15T00:00:00",
+  "pre_period": {
+    "start": "2025-11-15T00:00:00",
+    "end": "2025-12-14T00:00:00",
+    "metrics": {
+      "Period": "Pre-Perpetua (Manual)",
+      "Days": 30,
+      "Total_Revenue": 1626431.31,
+      "Ad_Spend": 25629.6,
+      "Ad_Sales": 77019.99,
+      "Organic_Sales": 1549411.32,
+      "ROAS": 3.0051186908886605,
+      "ACOS": 0.3327655586556165,
+      "TACoS": 0.015758181635103913,
+      "T_ROAS": 63.459098464275684,
+      "Organic_Ratio": 0.9526447938339309,
+      "Avg_Daily_Spend": 854.3199999999999,
+      "Avg_Daily_Revenue": 54214.377,
+      "Avg_Daily_Ad_Sales": 2567.333,
+      "Avg_Daily_Organic": 51647.044
+    }
+  },
+  "post_period": {
+    "start": "2025-12-15T00:00:00",
+    "metrics": {
+      "Period": "Post-Perpetua (SaaS)",
+      "Days": 49,
+      "Total_Revenue": 4613677.199999999,
+      "Ad_Spend": 251983.98,
+      "Ad_Sales": 495507.56000000006,
+      "Organic_Sales": 4118169.64,
+      "ROAS": 1.9664248497067156,
+      "ACOS": 0.5085371048627391,
+      "TACoS": 0.05461673391454436,
+      "T_ROAS": 18.309406812290206,
+      "Organic_Ratio": 0.8926002972206206,
+      "Avg_Daily_Spend": 5142.530204081633,
+      "Avg_Daily_Revenue": 94156.67755102039,
+      "Avg_Daily_Ad_Sales": 10112.399183673471,
+      "Avg_Daily_Organic": 84044.27836734694
+    }
+  },
+  "impact": {
+    "ROAS_Change": -1.0386938411819449,
+    "ROAS_Change_Pct": -34.56415363330581,
+    "TACoS_Change": 3.885855227944045,
+    "T_ROAS_Change": -45.14969165198548,
+    "Organic_Ratio_Change": -6.004449661331024,
+    "Daily_Revenue_Change": 39942.30055102039,
+    "Daily_Revenue_Change_Pct": 73.67473862333674
+  }
+}
